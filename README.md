@@ -8,6 +8,7 @@
 ##### Follow me:
 [![img][LINKEDIN_ICO]][LINKEDIN]
 [![img][INST_ICO]][INST]
+[![img][TG_ICO]][TG]
 
 <!-- SHIELDS -->
 [GH_PROFILE]: https://github.com/koldakov
@@ -25,3 +26,5 @@
 [LINKEDIN_ICO]: https://img.icons8.com/color/32/000000/linkedin.png
 [INST]: https://instagram.com/ikoldakov
 [INST_ICO]: https://img.icons8.com/color/32/000000/instagram-new.png
+[TG]: https://t.me/koldakov
+[TG_ICO]: https://img.icons8.com/color/32/000000/telegram-app--v1.png
